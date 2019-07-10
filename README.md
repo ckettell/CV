@@ -30,15 +30,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The University of Manchester (Sep 2014 - Jun 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- History
+- 2.1
+- Recipient of the Elsie Farrar scholarship 
 
-#### Any other qualifications
+#### Boston Spa School
 
-That in some arguable way make you a better software developer or well-rounded person
+- A Levels: Government and Politics (A*), History (A), Economics (B) 
+- AS Levels: Maths (B), Photography (B)
 
 ## Experience
 

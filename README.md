@@ -1,4 +1,4 @@
-## Your Name
+## Charles Kettell
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -43,14 +43,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+NMPi (January '18 - June '19)    
+Account Executive  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Street Child (June '17 - September '17)   
+Researcher  
 - Any experience relevent to software development
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I enjoy running, cycling and have recently developed a liking for bouldering. I have completed half and full Marathons, using the opportunities to raise over £4k for charities.
+
+To whet my appetite, I like to read. Whilst my book collection holds an ecclectic
+
+My book collection holds quite an ecclectic mix, 
+I like to use reading to whet my appetite and have used my personal blog 

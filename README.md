@@ -1,4 +1,4 @@
-## Charles Kettell
+<h1 align='center'> Charles Kettell </h1>
 
 I'm Charlie, an ambitious Full Stack Junior Software Developer who finds satisfaction in writing clean, elegant code and occasionally debugging. 
 

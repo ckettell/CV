@@ -2,7 +2,7 @@
 
 I'm Charlie, an ambitious Full Stack Junior Software Developer who finds satisfaction in writing clean, elegant code and uncovering bugs. 
 
-My path to the world of technology makes complete sense to me. At the University of Manchester, I studied history and by writing about Soviet society and the Iranian Revolution developed my self-led learning style. Whilst studying, my interest in Turkish Disco developed into an event-planning team and here I started to really enjoy the process of building "stuff". Since, I've worked for an international development organisation and digital media agency, giving me further experience in making change happen and learning about software. 
+My path to the world of technology makes complete sense to me. At the University of Manchester, I studied history and by writing about Soviet society and the Iranian Revolution developed my self-led learning style. Whilst studying, my interest in Turkish Disco developed into an event-planning team and here I started to really enjoy the process of building "stuff". Since, I've worked for an international development organisation and digital media agency, giving me further experience in making change happen and seeing the potential of software.
 
 I would like to work for a company where I can continue developing my software skills, take on new knowledge and be involved in building something special. 
 

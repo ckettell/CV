@@ -1,6 +1,10 @@
 ## Charles Kettell
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I'm Charlie, an ambitious Full Stack Junior Software Developer who finds satisfaction in writing clean, elegant code and occasionally debugging. 
+
+My path to the world of technology makes complete sense to me. At the University of Manchester, I studied history and by writing about Soviet society and the Iranian Revolution developed my self-led learning style. Whilst studying, my interest in Turkish Disco developed into an event-planning team and here I started to really enjoy the process of building "stuff". Since, I've worked for an international development organisation and digital media agency, giving me further experience in making change happen and learning about software. 
+
+
 
 ## Skills
 
@@ -55,7 +59,6 @@ Researcher
 
 I enjoy running, cycling and have recently developed a liking for bouldering. I have completed half and full Marathons, using the opportunities to raise over £4k for charities.
 
-To whet my appetite, I like to read. Whilst my book collection holds an ecclectic
+From comedy to the paradoxes of Soviet socialism, I like to read about an array of topics. Most recently, I've been learning about the safety of AI via the work of Nick Bostrom and Max Tegmark.
 
-My book collection holds quite an ecclectic mix, 
-I like to use reading to whet my appetite and have used my personal blog 
+I have written in the past for marketing publications, my past companies and Makers Academy. I find this is a great way to uncover gaps in my knowledge on the task at hand. You can find all these on my Medium blog. 

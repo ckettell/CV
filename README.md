@@ -6,15 +6,7 @@ My path to the world of technology makes complete sense to me. At the University
 
 I would like to work for a company where I can continue developing my software skills, take on new knowledge and be involved in building something special. 
 
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
+Tech Skills : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
 #### Another Skill
 

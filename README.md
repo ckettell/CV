@@ -12,7 +12,7 @@ Tech Skills : Ruby, Rails, Sinatra, Node.js, React, React Native, HTML, CSS, Jav
 
 #### Quick Learner
 
-When working for Street Child of Nepal, I wrote a report assessing the impact of a £4m school-building project in partnership with UNICEF. This required me to quickly understand the background and implications of the project to formulate into a clear report. When taking on new technologies and learning new practices, I have found writing how-to articles an effective practice to cement my learning. You can find these <a href="https://medium.com/@charleskettell">here</a>.
+When working for Street Child of Nepal, I wrote a report assessing the impact of a £4m school-building project in partnership with UNICEF. This required me to quickly understand the background and implications of the project to formulate a clear report. When taking on new technologies and learning new practices, I have found writing how-to articles an effective practice to cement my learning. You can find these <a href="https://medium.com/@charleskettell">here</a>.
 
 #### Self-Starter
 
@@ -44,10 +44,19 @@ My most recent role was at NMPi, a digital-marketing agency, where I was respons
 
 ## Experience
 
-NMPi (January '18 - June '19)    
+NMPi (January 2018 - June 2019)    
 Account Executive  
 - At NMPi I was able to get exposure to technology and build an understanding of its capacity.
 - As part of my reporting, I was able to automate a copy-and-paste jobs using SQL and consequently use the data-visualisation platform Data Studio in replacement for Excel.
+
+Street Child (June 2017 - October 2017)
+Researcher
+- Worked for Street Child of Nepal's Monitoring and Evaluation team.
+- Developed a report assessing the impact of a £4m school-building project in partnership with UNICEF. Involved meeting with UN members and Street Child's stakeholders.
+
+United Nations Volunteers Programme (May 2017 - June 2017)
+Researcher at One Sky Foundation
+- Alongside my studies, I independently carried out quantitative and qualitative research on unregistered Thai children's homes.  
 
 ## Hobbies
 

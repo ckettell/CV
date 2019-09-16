@@ -12,7 +12,7 @@ Tech Skills : Ruby, Rails, Sinatra, Node.js, React, React Native, HTML, CSS, Jav
 
 #### Quick Learner
 
-When working for Street Child of Nepal, I wrote a report assessing the impact of a £4m school-building project in partnership with UNICEF. This required me to quickly understand the background and implications of the project to formulate into a clear report. When taking on new technologies and learning new practices, I have found blogging an effective practice to cement my learning. You can find this <a href="https://medium.com/@charleskettell">here</a>. 
+When working for Street Child of Nepal, I wrote a report assessing the impact of a £4m school-building project in partnership with UNICEF. This required me to quickly understand the background and implications of the project to formulate into a clear report. When taking on new technologies and learning new practices, I have found writing how-to articles an effective practice to cement my learning. You can find this <a href="https://medium.com/@charleskettell">here</a>. 
 
 #### Self-Starter
 
@@ -22,24 +22,14 @@ When at university, I co-founded an even-planning team and focused on the growth
 
 My most recent role was at NMPi, a digital-marketing agency, where I was responsible for reporting and handling large budgets across an array of clients. To uncover opportunities and minimise mistakes, I moved the bulk of activity to the data-visialisation platform Data Studio. This gave my team and I more clarity of activity and the different variables in play. 
 
-
-
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jun 2019 - Sep 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React
+- RSpec, Jasmine, Jest
 
 #### The University of Manchester (Sep 2014 - Jun 2017)
 
@@ -56,11 +46,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 NMPi (January '18 - June '19)    
 Account Executive  
-- Any experience relevent to software development
-
-Street Child (June '17 - September '17)   
-Researcher  
-- Any experience relevent to software development
+- At NMPi I was able to get exposure to technology and build an understanding of its capacity. 
+- As part of my reporting, I was able to automate a copy-and-paste job using SQL and consequetely use the data-visualisation platform Data Studio in replacement for Excel. 
 
 ## Hobbies
 

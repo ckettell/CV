@@ -44,17 +44,17 @@ My most recent role was at NMPi, a digital-marketing agency, where I was respons
 
 ## Experience
 
-NMPi (January 2018 - June 2019)    
+#### NMPi (January 2018 - June 2019)    
 Account Executive  
 - At NMPi I was able to get exposure to technology and build an understanding of its capacity.
 - As part of my reporting, I was able to automate a copy-and-paste jobs using SQL and consequently use the data-visualisation platform Data Studio in replacement for Excel.
 
-Street Child (June 2017 - October 2017)
+#### Street Child (June 2017 - October 2017)
 Researcher
 - Worked for Street Child of Nepal's Monitoring and Evaluation team.
 - Developed a report assessing the impact of a £4m school-building project in partnership with UNICEF. Involved meeting with UN members and Street Child's stakeholders.
 
-United Nations Volunteers Programme (May 2017 - June 2017)
+#### United Nations Volunteers Programme (May 2017 - June 2017)
 Researcher at One Sky Foundation
 - Alongside my studies, I independently carried out quantitative and qualitative research on unregistered Thai children's homes.  
 

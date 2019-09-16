@@ -10,7 +10,7 @@ Tech Skills : Ruby, Rails, Sinatra, Node.js, React, React Native, HTML, CSS, Jav
 
 ## Skills
 
-### Quick Learner
+#### Quick Learner
 
 When working for Street Child of Nepal, I wrote a report assessing the impact of a £4m school-building project in partnership with UNICEF. This required me to quickly understand the background and implications of the project to formulate into a clear report. I have been able to apply this skill when taking on new technologies and learning new practices. 
 

@@ -47,7 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 2.1
 - Recipient of the Elsie Farrar scholarship 
 
-#### Boston Spa School
+#### Boston Spa School (Sep 2012 - Jun 2014)
 
 - A Levels: Government and Politics (A*), History (A), Economics (B) 
 - AS Levels: Maths (B), Photography (B)

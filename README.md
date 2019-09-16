@@ -14,11 +14,11 @@ Tech Skills : Ruby, Rails, Sinatra, Node.js, React, React Native, HTML, CSS, Jav
 
 When working for Street Child of Nepal, I wrote a report assessing the impact of a £4m school-building project in partnership with UNICEF. This required me to quickly understand the background and implications of the project to formulate into a clear report. I have been able to apply this skill when taking on new technologies and learning new practices. 
 
-### Self-Starter
+#### Self-Starter
 
 When at university, I co-founded an even-planning team and focused on the growth of the night. To do so, I used channels such as Facebook to reach students throughout the city. As the team matured, I was able move into project management; this made me responsible for the negotiation with venues and artists as well as logistical problems during the events. 
 
-### Attention to Detail
+#### Attention to Detail
 
 My most recent role was at NMPi, a digital-marketing agency, where I was responsible for reporting and handling large budgets across an array of clients. To uncover opportunities and minimise mistakes, I moved the bulk of activity to the data-visialisation platform Data Studio. This gave my team and I more clarity of activity and the different variables in play. 
 

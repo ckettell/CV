@@ -18,6 +18,10 @@ When working for Street Child of Nepal, I wrote a report assessing the impact of
 
 When at university, I co-founded an even-planning team and focused on the growth of the night. To do so, I used channels such as Facebook to reach students throughout the city. As the team matured, I was able move into project management; this made me responsible for the negotiation with venues and artists as well as logistical problems during the events. 
 
+### Attention to Detail
+
+My most recent role was at NMPi, a digital-marketing agency, where I was responsible for reporting and handling large budgets across an array of clients. To uncover opportunities and minimise mistakes, I moved the bulk of activity to the data-visialisation platform Data Studio. This gave my team and I more clarity of activity and the different variables in play. 
+
 
 
 

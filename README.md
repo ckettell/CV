@@ -10,52 +10,52 @@ Tech Skills : Ruby, Rails, Sinatra, Node.js, React, React Native, HTML, CSS, Jav
 
 ## Skills
 
-#### Quick Learner
+**Quick Learner**
 
 When working for Street Child of Nepal, I wrote a report assessing the impact of a £4m school-building project in partnership with UNICEF. This required me to quickly understand the background and implications of the project to formulate a clear report. When taking on new technologies and learning new practices, I have found writing how-to articles an effective practice to cement my learning. You can find these <a href="https://medium.com/@charleskettell">here</a>.
 
-#### Self-Starter
+**Self-Starter**
 
 When at university, I co-founded an even-planning team and focused on the growth of the night. To do so, I used digital channels such as Facebook to reach students throughout the city. As the team matured, I was able move into project management; making me responsible for the negotiation with venues and artists as well as the logistical problems during the events.
 
-#### Attention to Detail
+**Attention to Detail**
 
 My most recent role was at NMPi, a digital-marketing agency, where I was responsible for reporting and handling of large budgets across an array of clients. To uncover opportunities and minimise mistakes, I moved the bulk of activity to the data-visualisation platform Data Studio. This gave my team more clarity of activity and the different variables in play.
 
 ## Education
 
-#### Makers Academy (Jun 2019 - Sep 2019)
+**Makers Academy** (Jun 2019 - Sep 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, React
 - RSpec, Jasmine, Jest
 
-#### The University of Manchester (Sep 2014 - Jun 2017)
+**The University of Manchester** (Sep 2014 - Jun 2017)
 
 - History
 - 2.1
 - Recipient of the Elsie Farrar scholarship
 
-#### Boston Spa School (Sep 2012 - Jun 2014)
+**Boston Spa School** (Sep 2012 - Jun 2014)
 
 - A Levels: Government and Politics (A*), History (A), Economics (B)
 - AS Levels: Maths (B), Photography (B)
 
 ## Experience
 
-#### NMPi (January 2018 - June 2019)    
-Account Executive  
+**NMPi** (January 2018 - June 2019)    
+*Account Executive*  
 - At NMPi I was able to get exposure to technology and build an understanding of its capacity.
 - As part of my reporting, I was able to automate a copy-and-paste jobs using SQL and consequently use the data-visualisation platform Data Studio in replacement for Excel.
 
-#### Street Child (June 2017 - October 2017)
-Researcher
+**Street Child** (June 2017 - October 2017)
+*Researcher*
 - Worked for Street Child of Nepal's Monitoring and Evaluation team.
 - Developed a report assessing the impact of a £4m school-building project in partnership with UNICEF. Involved meeting with UN members and Street Child's stakeholders.
 
-#### United Nations Volunteers Programme (May 2017 - June 2017)
-Researcher at One Sky Foundation
+**United Nations Volunteers** Programme (May 2017 - June 2017)
+*Researcher at One Sky Foundation*
 - Alongside my studies, I independently carried out quantitative and qualitative research on unregistered Thai children's homes.  
 
 ## Hobbies

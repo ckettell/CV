@@ -8,6 +8,17 @@ I would like to work for a company where I can continue developing my software s
 
 Tech Skills : Ruby, Rails, Sinatra, Node.js, React, React Native, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
+## Projects
+
+For a complete list, see my [GitHub](https://github.com/ckettell).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | As a team, we built an alarm clock which wakes you up based on the traffic. Two weeks. | React Native, Jest |
+|[Online Bowling](https://github.com/ckettell/bowling-challenge)| Solo challenge building an interactive bowling scorecard. One weekend. | JavaScript, jQuery, Jasmine|
+| [Acebook](https://github.com/ckettell/Acebook) | A Facebook clone built using Rails. Two weeks. | Rails, JavaScript |
+| [AirBnB](https://github.com/ckettell/airbnb-clone) | A team project building AirBnB. One week. | JavaScript, ActiveRecord, Jest,  |
+
 ## Skills
 
 **Quick Learner**

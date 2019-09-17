@@ -2,9 +2,9 @@
 
 I'm Charlie, an ambitious Full Stack Junior Software Developer who finds satisfaction in writing clean, elegant code and uncovering bugs.
 
-My path to the world of technology makes sense to me. At the University of Manchester, I studied history and by writing about topics such as Soviet society and the Iranian Revolution developed my self-led learning style. Whilst studying, my interest in Turkish Disco developed into an event-planning team and here I started to really enjoy the process of building "stuff". Since, I've worked for an international development organisation and a digital media agency, giving me further experience in making change happen and seeing the potential of software.
+My path to the world of technology makes sense to me. At the University of Manchester, I studied history and by writing about topics such as Soviet society and the Iranian Revolution developed my self-led learning style. Whilst studying, my interest in Turkish Disco developed into an event-planning team and here I started to enjoy the process of building "stuff". Since, I've worked for an international development organisation and a digital media agency, giving me further experience in making change happen and seeing the potential of software.
 
-I would like to work for a company where I can continue developing my software skills, take on new knowledge and be involved in building something special.
+I would like to work for a company where I can continue developing my software development skills, take on new knowledge and be involved in building something special.
 
 Tech Skills : Ruby, Rails, Sinatra, Node.js, React, React Native, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
@@ -14,10 +14,10 @@ For a complete list, see my [GitHub](https://github.com/ckettell).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | As a team, we built an alarm clock which wakes you up based on the traffic. Two weeks. | React Native, Jest |
-|[Online Bowling](https://github.com/ckettell/bowling-challenge)| Solo challenge building an interactive bowling scorecard. One weekend. | JavaScript, jQuery, Jasmine|
-| [Acebook](https://github.com/ckettell/Acebook) | A Facebook clone built using Rails. Two weeks. | Rails, JavaScript |
-| [AirBnB](https://github.com/ckettell/airbnb-clone) | A team project building AirBnB. One week. | JavaScript, ActiveRecord, Jest,  |
+| [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | Two-week team project building an alarm clock with a twist. Using Google, CityMapper and TomTom APIs, the app wakes users in line with the traffic | React Native, Jest |
+|[Online Bowling](https://github.com/ckettell/bowling-challenge)| Solo challenge building an interactive bowling scorecard over a weekend | JavaScript, jQuery, Jasmine|
+| [Acebook](https://github.com/ckettell/Acebook) | A Facebook clone built using Rails over two weeks | Rails, JavaScript, Rspec, Capybara |
+| [AirBnB](https://github.com/ckettell/airbnb-clone) | A week's team project building AirBnB | JavaScript, ActiveRecord, Jest  |
 
 ## Skills
 
@@ -27,11 +27,11 @@ When working for Street Child of Nepal, I wrote a report assessing the impact of
 
 **Self-Starter**
 
-When at university, I co-founded an even-planning team and focused on the growth of the night. To do so, I used digital channels such as Facebook to reach students throughout the city. As the team matured, I was able move into project management; making me responsible for the negotiation with venues and artists as well as the logistical problems during the events.
+ At university, I co-founded an event-planning team and focused on the growth of the night. To do so, I used digital channels such as Facebook to reach students throughout the city. As the team matured, I was able to move into project management. This made me responsible for the negotiation with venues and artists as well as the logistical problems during the events.
 
 **Attention to Detail**
 
-My most recent role was at NMPi, a digital-marketing agency, where I was responsible for reporting and handling of large budgets across an array of clients. To uncover opportunities and minimise mistakes, I moved the bulk of activity to the data-visualisation platform Data Studio. This gave my team more clarity of activity and the different variables in play.
+My most recent role was at NMPi, a digital marketing agency, where I was responsible for the reporting and handling of large budgets across an array of clients. To uncover opportunities and minimise mistakes, I moved the bulk of activity to the data-visualisation platform Data Studio. This gave my team more clarity of activity and the different variables in play.
 
 ## Education
 
@@ -50,7 +50,7 @@ My most recent role was at NMPi, a digital-marketing agency, where I was respons
 
 **Boston Spa School** (Sep 2012 - Jun 2014)
 
-- A Levels: Government and Politics (A*), History (A), Economics (B)
+- A-Levels: Government and Politics (A*), History (A), Economics (B)
 - AS Levels: Maths (B), Photography (B)
 
 ## Experience
@@ -58,7 +58,7 @@ My most recent role was at NMPi, a digital-marketing agency, where I was respons
 **NMPi** (January 2018 - June 2019)    
 *Account Executive*  
 - At NMPi I was able to get exposure to technology and build an understanding of its capacity.
-- As part of my reporting, I was able to automate a copy-and-paste jobs using SQL and consequently use the data-visualisation platform Data Studio in replacement for Excel.
+- As part of my reporting, I was able to automate copy-and-paste jobs using SQL and consequently use the data-visualisation platform Data Studio in replacement for Excel.
 
 **Street Child** (June 2017 - October 2017)  
 *Researcher*
@@ -67,7 +67,8 @@ My most recent role was at NMPi, a digital-marketing agency, where I was respons
 
 **United Nations Volunteers** Programme (May 2017 - June 2017)  
 *Researcher at One Sky Foundation*
-- Alongside my studies, I independently carried out quantitative and qualitative research on unregistered Thai children's homes.  
+- Alongside my studies, I independently carried out quantitative and qualitative research on unregistered Thai children's homes.
+- The report was later published by the charity.
 
 ## Hobbies
 

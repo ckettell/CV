@@ -1,6 +1,6 @@
 <h1 align='center'> Charles Kettell </h1>
 
-I'm Charlie, an ambitious Full Stack Junior Software Developer who finds satisfaction in writing clean, elegant code and uncovering bugs.
+I'm Charlie, an ambitious Full Stack Software Developer who finds satisfaction in writing clean, elegant code and uncovering bugs.
 
 My path to the world of technology makes sense to me. At the University of Manchester, I studied history and by writing about topics such as Soviet society and the Iranian Revolution developed my self-led learning style. Whilst studying, my interest in Turkish Disco developed into an event-planning team and here I started to enjoy the process of building "stuff". Since, I've worked for an international development organisation and a digital media agency, giving me further experience in making change happen and seeing the potential of software.
 
@@ -17,7 +17,8 @@ For a complete list, see my [GitHub](https://github.com/ckettell).
 | [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | Two-week team project building an alarm clock with a twist. Using Google, CityMapper and TomTom APIs, the app wakes users in line with the traffic | React Native, Jest |
 |[Online Bowling](https://github.com/ckettell/bowling-challenge)| Solo challenge building an interactive bowling scorecard over a weekend | JavaScript, jQuery, Jasmine|
 | [Acebook](https://github.com/ckettell/Acebook) | A Facebook clone built using Rails over two weeks | Rails, JavaScript, Rspec, Capybara |
-| [AirBnB](https://github.com/ckettell/airbnb-clone) | A week's team project building AirBnB | JavaScript, ActiveRecord, Jest  |
+| [AirBnB](https://github.com/ckettell/airbnb-clone) | A week's team project building AirBnB | JavaScript, Sinatra, ActiveRecord, Jasmine  |
+| [Bank Tech Test](https://github.com/ckettell/bank-test) | Following TDD, I completed the bank tech test in a morning | Ruby, Rspec  |
 
 ## Skills
 

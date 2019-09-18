@@ -24,7 +24,7 @@ For a complete list, see my [GitHub](https://github.com/ckettell).
 
 **Quick Learner**
 
-When working for Street Child of Nepal, I wrote a report assessing the impact of a £4m school-building project in partnership with UNICEF. This required me to quickly understand the background and implications of the project to formulate a clear report. When taking on new technologies and learning new practices, I have found writing how-to articles an effective practice to cement my learning. You can find these <a href="https://medium.com/@charleskettell">here</a>.
+When working for Street Child of Nepal, I wrote a report assessing the impact of a £4m school-building project in partnership with UNICEF in three weeks. This required me to quickly understand the background and implications of the project to formulate a clear report. When taking on new technologies and learning new practices, I have found writing how-to articles an effective practice to cement my learning. You can find these <a href="https://medium.com/@charleskettell">here</a>.
 
 **Self-Starter**
 
@@ -38,7 +38,7 @@ My most recent role was at NMPi, a digital marketing agency, where I was respons
 
 **Makers Academy** (Jun 2019 - Sep 2019)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript, React
 - RSpec, Jasmine, Jest
@@ -48,11 +48,6 @@ My most recent role was at NMPi, a digital marketing agency, where I was respons
 - History
 - 2.1
 - Recipient of the Elsie Farrar scholarship
-
-**Boston Spa School** (Sep 2012 - Jun 2014)
-
-- A-Levels: Government and Politics (A*), History (A), Economics (B)
-- AS Levels: Maths (B), Photography (B)
 
 ## Experience
 

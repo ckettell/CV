@@ -28,7 +28,7 @@ When working for Street Child of Nepal, I wrote a report assessing the impact of
 
 **Self-Starter**
 
- At university, I co-founded an event-planning team and focused on the growth of the night. To do so, I used digital channels such as Facebook to reach students throughout the city. As the team matured, I was able to move into project management. This made me responsible for the negotiation with venues and artists as well as the logistical problems during the events.
+At university, I co-founded an event-planning team and took on the role growing the event. To do so, I used digital channels such as Facebook to reach students throughout the city. As the team matured, I was able to move into project management. This made me responsible for the negotiation with venues and artists as well as the logistical problems during the events.
 
 **Attention to Detail**
 

@@ -19,7 +19,7 @@ For a complete list, see my [GitHub](https://github.com/ckettell).
 | [Acebook](https://github.com/ckettell/Acebook) | A Facebook clone built using Rails over two weeks | Rails, JavaScript, Rspec, Capybara |
 | [AirBnB](https://github.com/ckettell/airbnb-clone) | A week's team project building AirBnB | JavaScript, Sinatra, ActiveRecord, Jasmine  |
 | [Bank Tech Test](https://github.com/ckettell/bank-test) | Following TDD, I completed the bank tech test in a morning | Ruby, Rspec  |
-| [Where you could have travelled](https://github.com/ckettell/where-could-you-travel) | What I'm currently working on. Solo project which uses the Monzo and Skyscanner APIs to curb a user's spending. The app will point out facts such as a trip to Dublin is cheaper than that round at Pret last month. Widening perspectives! | React, Express, Skyscanner API and Monzo API  |
+| [Where You Could Have Travelled](https://github.com/ckettell/where-could-you-travel) | What I'm currently working on. Solo project which uses the Monzo and Skyscanner APIs to curb a user's spending. The app will point out facts such as a trip to Dublin is cheaper than that round at Pret last month. Widening perspectives! | React, Express, Skyscanner API and Monzo API  |
 
 ## Skills
 

@@ -53,7 +53,7 @@ My most recent role was at NMPi, a digital marketing agency, where I was respons
 ## Experience
 
 **NMPi** (January 2018 - June 2019)    
-*Account Executive*  
+*Senior Account Executive*  
 - At NMPi I was able to get exposure to technology and build an understanding of its capacity.
 - As part of my reporting, I was able to automate copy-and-paste jobs using SQL and consequently use the data-visualisation platform Data Studio in replacement for Excel.
 
